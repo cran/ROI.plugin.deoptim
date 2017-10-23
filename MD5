@@ -1,0 +1,9 @@
+e7a0fbd8388f8c8dabd515978f2a1a3d *DESCRIPTION
+3fd67253367a5af6c12d980e3a0f9922 *NAMESPACE
+42d4d0d7b3e13e14c640d8220a95b064 *R/solve.R
+944b3b0481c45f6655492aa040e002d7 *R/status_codes.R
+54bbc9c5746be4d8ac30501b893613fb *R/zzz.R
+6b62f2816293c252d6c23467559c8b55 *man/Example_01.Rd
+aaf9923eb73b2486eb2a426f0088d5ad *man/Example_02.Rd
+f1ea9fa1149e508d2e9539f26cd7b457 *man/Example_03.Rd
+7c8c5457c9593d65c7d1d6d86beccee1 *tests/test_deoptim.R
