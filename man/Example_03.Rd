@@ -1,4 +1,5 @@
 \name{Example-3}
+\alias{Example-3}
 \title{Hock-Schittkowski-Collection Problem 36}
 
 \description{
