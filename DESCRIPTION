@@ -1,5 +1,5 @@
 Package: ROI.plugin.deoptim
-Version: 1.0-1
+Version: 1.0-2
 Title: 'DEoptim' and 'DEoptimR' Plugin for the 'R' Optimization
         Interface
 Authors@R: person("Florian", "Schwendinger", role = c("aut", "cre"), email = "FlorianSchwendinger@gmx.at")
@@ -13,8 +13,8 @@ License: GPL-3
 URL: https://roigrp.gitlab.io,
         https://gitlab.com/roigrp/solver/ROI.plugin.deoptim
 NeedsCompilation: no
-Packaged: 2023-07-05 06:50:10 UTC; f
+Packaged: 2023-07-25 13:23:27 UTC; f
 Author: Florian Schwendinger [aut, cre]
 Maintainer: Florian Schwendinger <FlorianSchwendinger@gmx.at>
 Repository: CRAN
-Date/Publication: 2023-07-05 08:23:02 UTC
+Date/Publication: 2023-07-25 17:33:42 UTC

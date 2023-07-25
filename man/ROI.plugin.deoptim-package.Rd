@@ -1,6 +1,6 @@
-\name{ROI.plugin.deoptimr-package}
+\name{ROI.plugin.deoptim-package}
 \docType{package}
-\alias{ROI.plugin.deoptimr-package}
+\alias{ROI.plugin.deoptim-package}
 
 \title{deoptimr}
 

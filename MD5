@@ -1,4 +1,4 @@
-5c112429f675c1fe2c600080e2906913 *DESCRIPTION
+37ec2680ce1a68b2db11b1cec73df1e8 *DESCRIPTION
 d702396e76c714a33b7a2320ef48622f *NAMESPACE
 481529cf448a7661a6b59acaa76cdc0f *R/solve.R
 944b3b0481c45f6655492aa040e002d7 *R/status_codes.R
@@ -6,5 +6,5 @@ ed14de9d473f74276164de7ae1483552 *R/zzz.R
 a27c1f823846aa999b22378684e6f23f *man/Example_01.Rd
 288a15529052c61232af890e087c2044 *man/Example_02.Rd
 286af0e8a18330c59b18e02a6b422408 *man/Example_03.Rd
-c2cb0a88ca5934fb792a6cc3884fd35a *man/ROI.plugin.deoptim-package.Rd
+125c8c95fb68d8d85acffbe6862769da *man/ROI.plugin.deoptim-package.Rd
 c9f0170338fa437a03cb3066b89ddb52 *tests/test_deoptim.R
